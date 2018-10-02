@@ -1,5 +1,3 @@
-﻿package animu_minesweeper_ver2;
-
 import javax.swing.plaf.ColorUIResource;
 import java.awt.image.BufferedImage;
 import javax.imageio.ImageIO;
