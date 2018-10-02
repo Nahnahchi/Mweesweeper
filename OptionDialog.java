@@ -1,5 +1,3 @@
-package animu_minesweeper_ver2;
-
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
