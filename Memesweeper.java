@@ -52,7 +52,7 @@ class Field {
 
 		ROW(0), COL(1);
 
-		private static String mine = "kys)";
+		private static String mine = "kys";
 		private final int ind;
 
 		private Mine(int ind) {
